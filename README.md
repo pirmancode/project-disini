@@ -1,5 +1,5 @@
 👨‍💻 M Riskyan Firman Nugraha | Frontend Developer | 🚀 Always Learning  
-🌐 HTML | CSS | JavaScript | React | Tailwind | Python | Linux  
+🌐 HTML | CSS | JavaScript | React | Tailwind | Python | Linux  | C++
 📌 Exploring UI/UX, Web Performance & System Development  
 🎓 Student at SMAN 4 Bojonegoro | Class X-5  
 
