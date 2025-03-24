@@ -41,6 +41,37 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+## 📜 Code Examples  
+
+```cpp
+// 🟦 C++ Example
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, World from C++!" << endl;
+    return 0;
+}
+
+# 🟨 Python Example
+def greet():
+    print("Hello, World from Python!")
+
+greet()
+// 🟩 Arduino Example
+void setup() {
+    Serial.begin(9600);
+    pinMode(13, OUTPUT);
+}
+
+void loop() {
+    digitalWrite(13, HIGH);
+    delay(1000);
+    digitalWrite(13, LOW);
+    delay(1000);
+}
+
+
 ## 📫 Contact  
 
 <p>
