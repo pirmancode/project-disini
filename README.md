@@ -1,21 +1,17 @@
 # Hi there, I'm Muhammad Riskyan Firman Nugraha 👋  
 
+🚀 **Frontend Developer & Tech Enthusiast** | 🎓 **SMAN 4 Bojonegoro (X-5) Student**  
+🐧 **Linux User & Open-Source Contributor** | 💡 **Passionate about IoT, C++, Python, and Hardware Development**  
 
 ---
 
 ## 👨‍💻 About Me  
 
-🎓 Student at SMAN 4 Bojonegoro (X-5)
-
-💻 Frontend Developer & IoT Enthusiast
-
-🔧 Skilled in C++, Python, JavaScript, and Embedded Systems
-
-🐧 Linux User & Open-Source Contributor
-
-🚀 Passionate about learning and innovation
-
-
+🎓 **Student at SMAN 4 Bojonegoro (X-5)**  
+💻 **Frontend Developer & IoT Enthusiast**  
+🔧 **Skilled in C++, Python, JavaScript, and Embedded Systems**  
+🐧 **Linux User & Open-Source Contributor**  
+🚀 **Passionate about learning and innovation**  
 
 ---
 
@@ -97,6 +93,31 @@ echo "Hello, World!"
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=redical" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ## 💌 Contact  
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pirmannichol/)  
@@ -104,10 +125,9 @@ echo "Hello, World!"
 
 ---
 
-## 📊 GitHub Stats  
-
+## 🧑‍💻 Visitor Counter  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 
