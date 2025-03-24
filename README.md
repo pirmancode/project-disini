@@ -9,11 +9,17 @@
   <img src="https://img.shields.io/badge/Linux%20User-333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux User" />
 </p>
 
-I am **Muhammad Riskyan Firman Nugraha**, a highly motivated **frontend web developer** and **technology enthusiast**, currently studying at **SMAN 4 Bojonegoro (Class X-5)**.  
+# Muhammad Riskyan Firman Nugraha  
 
-I have a deep passion for **IoT, embedded systems, and open-source technologies**, particularly in **Linux-based environments**. My expertise includes **C++ and Python programming**, along with experience in **Arduino and hardware development**.  
+🚀 **Frontend Developer & Tech Enthusiast**  
+🎓 Siswa **SMAN 4 Bojonegoro (X-5)**  
 
-As a **Linux enthusiast**, I enjoy optimizing workflows, exploring system configurations, and contributing to the open-source ecosystem. I am always eager to **learn new technologies**, collaborate on **exciting projects**, and solve **real-world problems** using technology.  
+💡 **Passionate about IoT & Embedded Systems**  
+🐧 **Linux Enthusiast** – Optimizing workflows & exploring system configurations  
+💻 **Expertise** – C++, Python, Arduino, & Hardware Development  
+🌍 **Open-Source Contributor** – Always learning & solving real-world problems  
+🤝 **Collaborator** – Excited to work on innovative projects  
+
 
 ## 🛠️ Tech Stack  
 
