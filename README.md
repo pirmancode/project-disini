@@ -1,4 +1,6 @@
-Hi there, I'm Muhammad Riskyan Firman Nugraha 👋  
+# Hi there, I'm Muhammad Riskyan Firman Nugraha 👋  
+
+## 🚀 About Me  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-00C853?style=for-the-badge&logo=Google%20Classroom&logoColor=white" alt="Student" />
@@ -6,13 +8,12 @@ Hi there, I'm Muhammad Riskyan Firman Nugraha 👋
   <img src="https://img.shields.io/badge/IoT%20Enthusiast-007ACC?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="IoT Enthusiast" />
   <img src="https://img.shields.io/badge/Linux%20User-333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux User" />
 </p>
-## 🚀 About Me  
 
-- 🎓 A student at **SMAN 4 Bojonegoro, Class X-5**, passionate about technology and innovation.  
-- 💻 A **frontend web developer** who enjoys creating clean and responsive user interfaces.  
-- 🔬 Interested in **IoT and Embedded Systems**, exploring microcontrollers and hardware programming.  
-- 🖥️ A **Linux enthusiast**, always optimizing workflows and exploring open-source technologies.  
-- 📍 Based in **Bojonegoro, Indonesia**, eager to learn and collaborate on exciting projects.  
+I am **Muhammad Riskyan Firman Nugraha**, a highly motivated **frontend web developer** and **technology enthusiast**, currently studying at **SMAN 4 Bojonegoro (Class X-5)**.  
+
+I have a deep passion for **IoT, embedded systems, and open-source technologies**, particularly in **Linux-based environments**. My expertise includes **C++ and Python programming**, along with experience in **Arduino and hardware development**.  
+
+As a **Linux enthusiast**, I enjoy optimizing workflows, exploring system configurations, and contributing to the open-source ecosystem. I am always eager to **learn new technologies**, collaborate on **exciting projects**, and solve **real-world problems** using technology.  
 
 ## 🛠️ Tech Stack  
 
