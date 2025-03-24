@@ -29,8 +29,3 @@ Untuk melihat contoh penggunaan dari bahasa pemrograman di atas, klik tautan di 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pirmannichol)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62822451199769?text=Hi%20Riskyan,%20saya%20tertarik%20untuk%20terhubung!)  
 
-
-## 📫 Connect with me  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pirmannichol)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62822451199769?text=Hi%20Riskyan,%20saya%20tertarik%20untuk%20terhubung!)  
-
