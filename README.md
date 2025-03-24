@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Riskyan Firman Nugraha 👋  
+# Hi, I'm Muhammad Riskyan Firman Nugraha 👋  
 
 ## 👨‍💻 About Me  
 
@@ -6,7 +6,9 @@
 
 💻 **Frontend Developer & IoT Enthusiast**  
 
-🔧 **Skilled in C++, Python, JavaScript, and Embedded Systems**  
+🔬 Lifelong Learner & Technology Explorer
+
+🎯 Goal-Oriented & Problem Solver
 
 🐧 **Linux User & Open-Source Contributor**  
 
