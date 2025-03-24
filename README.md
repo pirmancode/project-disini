@@ -1,145 +1,82 @@
 # Hi, I'm Muhammad Riskyan Firman Nugraha 👋  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DC6F&width=435&lines=Frontend+Developer+%7C+IoT+Enthusiast;C%2B%2B+%7C+Python+%7C+Linux+%7C+Arduino;Passionate+about+Technology+and+Innovation" alt="Typing SVG" />
+</p>
+
+---
+
 ## 👨‍💻 About Me  
 
-🎓 **Student at SMAN 4 Bojonegoro (X-5)**  
-
-💻 **Frontend Developer & IoT Enthusiast**  
-
-🔬 Lifelong Learner & Technology Explorer
-
-🎯 Goal-Oriented & Problem Solver
-
-🐧 **Linux User & Open-Source Contributor**  
-
-🚀 **Passionate about learning and innovation** 
-
-💡 **Passionate about IoT, C++, Python, and Hardware Development**  
+- 🎓 **Student at SMAN 4 Bojonegoro (X-5)**  
+- 💻 **Frontend Developer & IoT Enthusiast**  
+- 🔬 **Lifelong Learner & Technology Explorer**  
+- 🎯 **Goal-Oriented & Problem Solver**  
+- 🐧 **Linux User & Open-Source Contributor**  
+- 🚀 **Passionate about learning and innovation**  
+- 💡 **Expertise: IoT, C++, Python, and Hardware Development**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 🌐 Frontend Development  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="Frontend Skills" />
 </p>
 
 ### 💡 Programming Languages  
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python" alt="Programming Languages" />
 </p>
 
 ### ⚙️ Hardware & IoT  
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
 </p>
 
 ### 🐧 Operating System  
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </p>
-
----
-
-## 📝 Code Examples  
-
-### ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)  
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Hello, World!" << endl;
-    return 0;
-}
-```
-
-### ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-```python
-print("Hello, World!")
-```
-
-### ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello World</title>
-</head>
-<body>
-    <h1>Hello, World!</h1>
-</body>
-</html>
-```
-
-### ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-```css
-h1 {
-    color: blue;
-    font-size: 24px;
-}
-```
-
-### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-```javascript
-console.log("Hello, World!");
-```
-
-### ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-```cpp
-void setup() {
-    Serial.begin(9600);
-    Serial.println("Hello, World!");
-}
-
-void loop() {
-    // Do nothing
-}
-```
-
-### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-```bash
-echo "Hello, World!"
-```
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔥 GitHub Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=redical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ## 💌 Contact  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pirmannichol/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282245119769)  
+<p align="center">
+  <a href="https://www.instagram.com/pirmannichol/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/6282245119769">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
 
@@ -147,5 +84,4 @@ echo "Hello, World!"
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourgithubusername&style=flat-square&color=blue" alt="Profile Views" />
 </p>
-
 
