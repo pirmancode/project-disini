@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack  
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -20,8 +20,8 @@
 
 ## 📝 Code Examples  
 
+### ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)  
 ```cpp
-// 🔆 C++: Hello, World!
 #include <iostream>
 using namespace std;
 
@@ -31,13 +31,13 @@ int main() {
 }
 ```
 
+### ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ```python
-# 🐈 Python: Hello, World!
 print("Hello, World!")
 ```
 
+### ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ```html
-<!-- 🟥 HTML: Hello, World! -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -51,21 +51,21 @@ print("Hello, World!")
 </html>
 ```
 
+### ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ```css
-/* 🔆 CSS: Hello, World! */
 h1 {
     color: blue;
     font-size: 24px;
 }
 ```
 
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ```javascript
-// 🐈 JavaScript: Hello, World!
 console.log("Hello, World!");
 ```
 
+### ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
 ```cpp
-// 🟩 Arduino: Hello, World! (Serial Monitor)
 void setup() {
     Serial.begin(9600);
     Serial.println("Hello, World!");
@@ -76,8 +76,8 @@ void loop() {
 }
 ```
 
+### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ```bash
-# 🐧 Linux Bash: Hello, World!
 echo "Hello, World!"
 ```
 
