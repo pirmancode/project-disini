@@ -41,12 +41,6 @@ As a **Linux enthusiast**, I enjoy optimizing workflows, exploring system config
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## 📫 How to Reach Me  
-
-<p>
-  <a href="https://www.instagram.com/pirmannichol/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 ## 📫 Contact  
 
 <p>
