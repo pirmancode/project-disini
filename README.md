@@ -1,19 +1,9 @@
 # Hi there, I'm Muhammad Riskyan Firman Nugraha 👋  
 
-## 🚀 About Me  
+🚀 **Frontend Developer & Tech Enthusiast** | 🎓 **SMAN 4 Bojonegoro (X-5) Student**  
+🐧 **Linux User & Open-Source Contributor** | 💡 **Passionate about IoT, C++, Python, and Hardware Development**  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-00C853?style=for-the-badge&logo=Google%20Classroom&logoColor=white" alt="Student" />
-  <img src="https://img.shields.io/badge/Frontend%20Developer-FF6F00?style=for-the-badge&logo=javascript&logoColor=white" alt="Frontend Developer" />
-  <img src="https://img.shields.io/badge/IoT%20Enthusiast-007ACC?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="IoT Enthusiast" />
-  <img src="https://img.shields.io/badge/Linux%20User-333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux User" />
-</p>
-
-🚀 **Frontend Developer & Tech Enthusiast**  
-🎓 **SMAN 4 Bojonegoro (X-5) Student**  
-🐧 **Linux User & Open-Source Contributor**  
-💡 **Passionate about IoT, C++, Python, and Hardware Development** 
-
+---
 
 ## 🛠️ Tech Stack  
 
@@ -26,19 +16,83 @@
 ![IoT](https://img.shields.io/badge/IoT-00ACC1?style=for-the-badge&logo=raspberrypi&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
-## 📫 Contact  
+---
 
-<p>
-  <a href="https://www.instagram.com/pirmannichol/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/6282245119769">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+## 📝 Code Examples  
 
-## 📈 GitHub Stats  
+```cpp
+// 🔆 C++: Hello, World!
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, World!" << endl;
+    return 0;
+}
+```
+
+```python
+# 🐈 Python: Hello, World!
+print("Hello, World!")
+```
+
+```html
+<!-- 🟥 HTML: Hello, World! -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
+```
+
+```css
+/* 🔆 CSS: Hello, World! */
+h1 {
+    color: blue;
+    font-size: 24px;
+}
+```
+
+```javascript
+// 🐈 JavaScript: Hello, World!
+console.log("Hello, World!");
+```
+
+```cpp
+// 🟩 Arduino: Hello, World! (Serial Monitor)
+void setup() {
+    Serial.begin(9600);
+    Serial.println("Hello, World!");
+}
+
+void loop() {
+    // Do nothing
+}
+```
+
+```bash
+# 🐧 Linux Bash: Hello, World!
+echo "Hello, World!"
+```
+
+---
+
+## 💌 Contact  
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pirmannichol/)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282245119769)  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
