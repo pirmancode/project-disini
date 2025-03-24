@@ -2,11 +2,18 @@
 
 ## 🚀 About Me  
 
-I am **Muhammad Riskyan Firman Nugraha**, a passionate **frontend web developer** and technology enthusiast, currently studying at **SMAN 4 Bojonegoro (Class X-5)**. I have a strong interest in **IoT, embedded systems, and open-source technologies**, particularly in **Linux-based environments**.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-00C853?style=for-the-badge&logo=Google%20Classroom&logoColor=white" alt="Student" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-FF6F00?style=for-the-badge&logo=javascript&logoColor=white" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/IoT%20Enthusiast-007ACC?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="IoT Enthusiast" />
+  <img src="https://img.shields.io/badge/Linux%20User-333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux User" />
+</p>
 
-My expertise includes **C++ and Python programming**, along with experience in **Arduino and hardware development**. As a **Linux enthusiast**, I enjoy optimizing workflows and exploring system configurations to enhance productivity.  
+I am **Muhammad Riskyan Firman Nugraha**, a highly motivated **frontend web developer** and **technology enthusiast**, currently studying at **SMAN 4 Bojonegoro (Class X-5)**.  
 
-Driven by curiosity and a continuous learning mindset, I actively seek opportunities to expand my knowledge and contribute to the tech community. Whether it's developing web interfaces or experimenting with IoT projects, I am always eager to take on new challenges and innovate.  
+I have a deep passion for **IoT, embedded systems, and open-source technologies**, particularly in **Linux-based environments**. My expertise includes **C++ and Python programming**, along with experience in **Arduino and hardware development**.  
+
+As a **Linux enthusiast**, I enjoy optimizing workflows, exploring system configurations, and contributing to the open-source ecosystem. I am always eager to **learn new technologies**, collaborate on **exciting projects**, and solve **real-world problems** using technology.  
 
 ## 🛠️ Tech Stack  
 
@@ -26,6 +33,7 @@ Driven by curiosity and a continuous learning mindset, I actively seek opportuni
 ### ⚙️ Hardware & IoT  
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/IoT-00ACC1?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="IoT" />
 </p>
 
 ### 🐧 Operating System  
@@ -52,5 +60,6 @@ Driven by curiosity and a continuous learning mindset, I actively seek opportuni
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
