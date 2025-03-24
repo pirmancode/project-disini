@@ -5,7 +5,11 @@
 
 ## 👨‍💻 About Me  
 
-🎓 Student at SMAN 4 Bojonegoro (X-5)💻 Frontend Developer & IoT Enthusiast🔧 Skilled in C++, Python, JavaScript, and Embedded Systems🐧 Linux User & Open-Source Contributor🚀 Passionate about learning and innovation
+🎓 Student at SMAN 4 Bojonegoro (X-5)
+💻 Frontend Developer & IoT Enthusiast
+🔧 Skilled in C++, Python, JavaScript, and Embedded Systems
+🐧 Linux User & Open-Source Contributor
+🚀 Passionate about learning and innovation
 
 
 
