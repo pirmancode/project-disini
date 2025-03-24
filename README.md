@@ -1,4 +1,4 @@
-# Hi there, I'm [Nama Kamu] 👋  
+# Hi there, I'm Muhammad Riskyan Firman Nugraha 👋  
 
 ## 🚀 About Me  
 
