@@ -5,6 +5,14 @@
 
 ---
 
+## 👨‍💻 About Me  
+
+I am **Muhammad Riskyan Firman Nugraha**, a passionate **frontend web developer** and **technology enthusiast** currently studying at **SMAN 4 Bojonegoro (Class X-5)**. With a strong foundation in **C++, Python, and JavaScript**, I have been exploring the fields of **Internet of Things (IoT), embedded systems, and open-source development**.  
+
+As a **Linux enthusiast**, I enjoy optimizing workflows, exploring system configurations, and contributing to open-source projects. I am highly motivated to **learn new technologies**, collaborate on **exciting projects**, and solve **real-world problems** through technology.  
+
+---
+
 ## 🛠️ Tech Stack  
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)  
@@ -95,4 +103,5 @@ echo "Hello, World!"
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
