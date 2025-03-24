@@ -1,6 +1,4 @@
-# Hi there, I'm Muhammad Riskyan Firman Nugraha 👋  
-
-## 🚀 About Me  
+Hi there, I'm Muhammad Riskyan Firman Nugraha 👋  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-00C853?style=for-the-badge&logo=Google%20Classroom&logoColor=white" alt="Student" />
