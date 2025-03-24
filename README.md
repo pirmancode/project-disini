@@ -1,15 +1,13 @@
 # Hi there, I'm Muhammad Riskyan Firman Nugraha 👋  
 
-🚀 **Frontend Developer & Tech Enthusiast** | 🎓 **SMAN 4 Bojonegoro (X-5) Student**  
-🐧 **Linux User & Open-Source Contributor** | 💡 **Passionate about IoT, C++, Python, and Hardware Development**  
 
 ---
 
 ## 👨‍💻 About Me  
 
-I am **Muhammad Riskyan Firman Nugraha**, a passionate **frontend web developer** and **technology enthusiast** currently studying at **SMAN 4 Bojonegoro (Class X-5)**. With a strong foundation in **C++, Python, and JavaScript**, I have been exploring the fields of **Internet of Things (IoT), embedded systems, and open-source development**.  
+🎓 Student at SMAN 4 Bojonegoro (X-5)💻 Frontend Developer & IoT Enthusiast🔧 Skilled in C++, Python, JavaScript, and Embedded Systems🐧 Linux User & Open-Source Contributor🚀 Passionate about learning and innovation
 
-As a **Linux enthusiast**, I enjoy optimizing workflows, exploring system configurations, and contributing to open-source projects. I am highly motivated to **learn new technologies**, collaborate on **exciting projects**, and solve **real-world problems** through technology.  
+
 
 ---
 
