@@ -1,29 +1,18 @@
 # Hi, I'm Muhammad Riskyan Firman Nugraha 👋  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DC6F&width=435&lines=Frontend+Developer+%7C+IoT+Enthusiast;C%2B%2B+%7C+Python+%7C+javascript+%7C+Arduino;Passionate+about+Technology+and+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DC6F&width=435&lines=Frontend+Developer+%7C+IoT+Enthusiast;C%2B%2B+%7C+Python+%7C+javascript+%7C+Arduino;Passionate+about+Technology+" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
+Saya Muhammad Riskyan Firman Nugraha, seorang Frontend Developer & IoT Enthusiast serta pelajar di SMAN 4 Bojonegoro (X-5). Saya memiliki passion dalam pengembangan web, pemrograman, dan teknologi IoT.
 
-🎓 **Student at SMAN 4 Bojonegoro (X-5)**  
-
-💻 **Frontend Developer & IoT Enthusiast**  
-
-🔬 Lifelong Learner & Technology Explorer
-
-🎯 Goal-Oriented & Problem Solver
-
-🐧 **Linux User & Open-Source Contributor**  
-
-🚀 **Passionate about learning and innovation** 
-
-💡 **Passionate about IoT, C++, Python, and Hardware Development**  
+🚀 Selalu belajar, eksplorasi, dan berinovasi!
 
 ---
 
-## 🛠️ Tech Stack  
+## 🔧 Skills & Tools
 
 ### 🌐 Frontend Development  
 <p>
@@ -151,6 +140,6 @@ echo "Hello, World!"
 ## 🧑‍💻 Visitor Counter  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourgithubusername&style=flat-square&color=blue" alt="Profile Views" />
-</p> tambahkan efect dan animasi agar terlihat profesional dan keren 
+</p>
 
 
