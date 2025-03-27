@@ -111,13 +111,25 @@ echo "Hello, World!"
 ---
 ## 🏅 Certifications & Achievements  
 - 📜 **Frontend Web Development** - Dicoding  
-- 🏆 **Juara 1 Lomba Coding** - Hackathon XYZ  
+- 🏆 **Peraih Medali Emas Informatika** - SSSC Divyacompetition 
 
 ---
 ## 🎯 Currently Learning  
 - ⚡ React.js & Next.js  
 - 🤖 IoT & ESP32  
 - 📈 Data Structures & Algorithms  
+
+---
+## 🎉 Fun Facts  
+- 💙 Suka ngoding malam hari  
+- 🎮 Hobi main game dan otak-atik hardware  
+- ☕ Ditemani kopi saat ngoding  
+- 🛠️ Sering eksperimen dengan **Arduino & IoT**  
+- 🌍 Penasaran dengan dunia **Cybersecurity & AI**  
+- 🎧 Fokus lebih baik dengan **musik lo-fi atau EDM**  
+- 🐧 Pengguna **Linux**, suka otak-atik terminal  
+- 🚀 Bermimpi bikin **proyek open-source keren**  
+- 📝 Sering bikin catatan coding biar gak lupa  
 
 ---
 
