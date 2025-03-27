@@ -1,7 +1,8 @@
 # Hi, I'm Muhammad Riskyan Firman Nugraha 👋  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DC6F&width=435&lines=Frontend+Developer+%7C+IoT+Enthusiast;C%2B%2B+%7C+Python+%7C+javascript+%7C+Arduino;Passionate+about+Technology+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CCCCCC&width=435&lines=Frontend+Developer+%7C+IoT+Enthusiast;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+Arduino;Passionate+about+Technology+" alt="Typing SVG" />
 </p>
+
 
 ---
 
