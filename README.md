@@ -20,6 +20,9 @@ Saya Muhammad Riskyan Firman Nugraha, seorang **Frontend Developer & IoT Enthusi
 ---
 
 ## 🔧 Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,arduino,linux,vscode,github" />
+</p>
 
 ### 🌐 Frontend Development  
 <p>
