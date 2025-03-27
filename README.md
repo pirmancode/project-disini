@@ -61,14 +61,16 @@ Saya Muhammad Riskyan Firman Nugraha, seorang **Frontend Developer & IoT Enthusi
 
 ---
 ## 🎉 Fun Facts  
-- 💙 Suka ngoding malam hari  
-- 🎮 Hobi main game dan otak-atik hardware  
-- ☕ Ditemani kopi saat ngoding  
-- 🛠️ Sering eksperimen dengan **Arduino & IoT**  
-- 🌍 Penasaran dengan dunia **Cybersecurity & AI**  
-- 🐧 Pengguna **Linux**, suka otak-atik terminal  
-- 🚀 Bermimpi bikin **proyek open-source keren**  
-- 📝 Sering bikin catatan coding biar gak lupa  
+- 💙 Ngoding malam lebih fokus  
+- 🎮 Suka game & otak-atik hardware  
+- ☕ Ngoding + kopi = combo wajib  
+- 🛠️ Eksperimen Arduino & IoT  
+- 🌍 Tertarik Cybersecurity & AI  
+- 🎧 Lo-fi & EDM buat fokus  
+- 🐧 Pengguna Linux, suka terminal  
+- 🚀 Bercita-cita bikin proyek keren  
+- 📝 Sering nyatet biar gak lupa  
+
 
 ---
 
