@@ -51,12 +51,13 @@ Saya Muhammad Riskyan Firman Nugraha, seorang **Frontend Developer & IoT Enthusi
 
 ---
 ## 🎯 Currently Learning  
-🔹 **React.js & Next.js** – Meningkatkan skill frontend  
-🔹 **IoT & ESP32** – Eksperimen dengan perangkat keras  
-🔹 **Data Structures & Algorithms** – Optimasi logika pemrograman  
-🔹 **Cybersecurity** – Mempelajari keamanan sistem & jaringan  
-🔹 **REST API & Backend** – Memahami konektivitas antar sistem  
-🔹 **UI/UX Design** – Menciptakan pengalaman pengguna yang lebih baik  
+- ⚡ React.js & Next.js  
+- 🤖 IoT & ESP32  
+- 📊 Data Structures & Algorithms  
+- 🔒 Cybersecurity Basics  
+- 🔥 REST API & Backend  
+- 🎨 UI/UX Design  
+ 
 
 ---
 ## 🎉 Fun Facts  
