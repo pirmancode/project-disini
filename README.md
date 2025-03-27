@@ -45,6 +45,29 @@ Saya Muhammad Riskyan Firman Nugraha, seorang **Frontend Developer & IoT Enthusi
 
 ---
 
+## 🏅 Certifications & Achievements  
+- 📜 **Frontend Web Development** - Dicoding  
+- 🏆 **Peraih Medali Emas Informatika** - SSSC Divyacompetition 
+
+---
+## 🎯 Currently Learning  
+- ⚡ React.js & Next.js  
+- 🤖 IoT & ESP32  
+- 📈 Data Structures & Algorithms  
+
+---
+## 🎉 Fun Facts  
+- 💙 Suka ngoding malam hari  
+- 🎮 Hobi main game dan otak-atik hardware  
+- ☕ Ditemani kopi saat ngoding  
+- 🛠️ Sering eksperimen dengan **Arduino & IoT**  
+- 🌍 Penasaran dengan dunia **Cybersecurity & AI**  
+- 🐧 Pengguna **Linux**, suka otak-atik terminal  
+- 🚀 Bermimpi bikin **proyek open-source keren**  
+- 📝 Sering bikin catatan coding biar gak lupa  
+
+---
+
 ## 📝 Code Examples  
 
 ### ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)  
@@ -107,29 +130,6 @@ void loop() {
 ```bash
 echo "Hello, World!"
 ```
-
----
-## 🏅 Certifications & Achievements  
-- 📜 **Frontend Web Development** - Dicoding  
-- 🏆 **Peraih Medali Emas Informatika** - SSSC Divyacompetition 
-
----
-## 🎯 Currently Learning  
-- ⚡ React.js & Next.js  
-- 🤖 IoT & ESP32  
-- 📈 Data Structures & Algorithms  
-
----
-## 🎉 Fun Facts  
-- 💙 Suka ngoding malam hari  
-- 🎮 Hobi main game dan otak-atik hardware  
-- ☕ Ditemani kopi saat ngoding  
-- 🛠️ Sering eksperimen dengan **Arduino & IoT**  
-- 🌍 Penasaran dengan dunia **Cybersecurity & AI**  
-- 🎧 Fokus lebih baik dengan **musik lo-fi atau EDM**  
-- 🐧 Pengguna **Linux**, suka otak-atik terminal  
-- 🚀 Bermimpi bikin **proyek open-source keren**  
-- 📝 Sering bikin catatan coding biar gak lupa  
 
 ---
 
