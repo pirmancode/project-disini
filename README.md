@@ -109,6 +109,17 @@ echo "Hello, World!"
 ```
 
 ---
+## 🏅 Certifications & Achievements  
+- 📜 **Frontend Web Development** - Dicoding  
+- 🏆 **Juara 1 Lomba Coding** - Hackathon XYZ  
+
+---
+## 🎯 Currently Learning  
+- ⚡ React.js & Next.js  
+- 🤖 IoT & ESP32  
+- 📈 Data Structures & Algorithms  
+
+---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
