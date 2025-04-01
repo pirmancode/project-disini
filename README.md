@@ -53,7 +53,8 @@ Saya Muhammad Riskyan Firman Nugraha, seorang **Frontend Developer & IoT Enthusi
 
 ## 🏅 Certifications & Achievements  
 - 📜 **Frontend Web Development** - Dicoding  
-- 🏆 **Peraih Medali Emas Informatika** - SSSC Divyacompetition 
+- 🏆 **Peraih Medali Emas Informatika** - SSSC Divyacompetition
+- 🎖️ Juara Harapan 7 Informatika - NAMO Gypem
 
 ---
 ## 🎯 Currently Learning  
