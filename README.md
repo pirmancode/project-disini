@@ -172,9 +172,9 @@ echo "Hello, World!"
 
 ---
 
-## 💌 Contact  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pirmannichol/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282245119769)  
+## 📫 Contact Me
+<p align="center"> <a href="https://instagram.com/pirmannichol"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://wa.me/6282245119769"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=4FC3F7&height=100&section=footer"/> </p> ```
 
 ---
 
