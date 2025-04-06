@@ -168,6 +168,16 @@ echo "Hello, World!"
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=4FC3F7&height=100&section=footer"/> </p> 
 
 ---
+## 🧠 Knowledge Base & Notes
+📌 [Belajar Arduino & Sensor](https://github.com/pirmannichol/arduino-sensor-tutorial)  
+📌 [Tips Ngoding Lebih Produktif](https://github.com/pirmannichol/ngoding-produktif-tips)  
+📌 [Dasar-Dasar Linux untuk Pemula](https://github.com/pirmannichol/dasar-linux-pemula)  
+📌 [Rangkuman Belajar Frontend](https://github.com/pirmannichol/frontend-learning-summary)
+---
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
+</p>
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourgithubusername&style=flat-square&color=blue" alt="Profile Views" />
