@@ -51,10 +51,12 @@ Saya Muhammad Riskyan Firman Nugraha, seorang **Frontend Developer & IoT Enthusi
 
 ---
 
-## 🏅 Certifications & Achievements  
-- 📜 **Frontend Web Development** - Dicoding  
-- 🏆 **Peraih Medali Emas Informatika** - SSSC Divyacompetition
-- 🎖️ Juara Harapan 7 Informatika - NAMO Gypem
+## 🏆 Achievements & Certifications
+
+- 🥇 Gold Medal - Informatika (SSSC Divya Competition)  
+- 🎖️ Juara Harapan 7 - NAMO Gypem Informatika  
+- 📜 Dicoding Certificate - Frontend Web Development  
+
 
 ---
 ## 🎯 Currently Learning  
@@ -145,11 +147,6 @@ echo "Hello, World!"
 ```
 
 ---
-## 💬 Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
-</p>
---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
@@ -158,12 +155,6 @@ echo "Hello, World!"
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-
----
 
 ## 🔥 GitHub Activity Graph  
 <p align="center">
@@ -174,7 +165,7 @@ echo "Hello, World!"
 
 ## 📫 Contact Me
 <p align="center"> <a href="https://instagram.com/pirmannichol"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://wa.me/6282245119769"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=4FC3F7&height=100&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=4FC3F7&height=100&section=footer"/> </p> 
 
 ---
 
